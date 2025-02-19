@@ -6,5 +6,5 @@ For more information, take a look at https://practicum.cloudnativelab.ilabt.imec
 
 This repository is only used for documentation and support.
 
-* Take a look at [the wiki](https://github.com/idlab-discover/xNativeLab/wiki) for more information on how to use CloudNativeLab.
+* Take a look at [the wiki](https://github.com/idlab-discover/xNativeLab/wiki) for more information on how to use xNativeLab.
 * If you have any questions, [please create an issue](https://github.com/idlab-discover/xNativeLab/issues).
